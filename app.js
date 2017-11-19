@@ -11,6 +11,3 @@ app.get('/', function(req, resp) {
 
 module.exports = app;
 
-class Request {}
-
-class Response {}
