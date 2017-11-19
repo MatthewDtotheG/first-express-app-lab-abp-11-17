@@ -1,9 +1,7 @@
-var express = require('express')
-var app = express()
+var express = require('express');
+var app = express();
 
 // Build Your Route Here
-app.get('/', function(req,resp){
-  
-})
+app.get('/', function(req, resp) {});
 
-module.exports = app
+module.exports = app;
